@@ -1,3 +1,3 @@
 # hello-world
-just another repo added line
+jus another repo added line
 added one line to this repo
